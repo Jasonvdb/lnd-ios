@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  wallet
+
+  Created by Jason on 8/23/20.
+  Copyright © 2020 Jason. All rights reserved.
+*/
+
+"REQUEST" = "Request";
+"NOTE" = "Note";
+"NEXT" = "Next";
+"FOR" = "For";
+"NOTE_PLACEHOLDER" = "Write a message";
+"CREATE_QR" = "Create QR Code";
+"DEFAULT_ERROR" = "An error occured";
+
+
+//LND errors
+"LND_ERROR_UNKNOWN" = "An error unknown occured";
+"LND_ERROR_MAPPING" = "An error unknown occured";
+"LND_ERROR_INVALID_PASSWORD" = "Invalid wallet password";
+"LND_ERROR_PAYMENT" = "Payment error (%@)";
+
